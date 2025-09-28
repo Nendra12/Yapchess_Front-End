@@ -114,8 +114,8 @@ docker-compose up --build
 ---
 
 ## 👨‍💻 Tim Pengembang
-- Zanuar Rikza Aditya (Ketua, fokus back-end)
-- Danendra Mahardhika  (Anggota, fokus front-end)
+- Zanuar Rikza Aditya (Ketua, fokus backend)
+- Danendra Mahardhika  (Anggota, fokus frontend)
 - Harits Putra Junaidi  (Anggota, fokus Documentation Officer, QA)
 - Asep Prayogi (Anggota, fokus UI/UX, System Analyst)
 - Moh Naufal Thariq  (Anggota, fokus Database Designer)
