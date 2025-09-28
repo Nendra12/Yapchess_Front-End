@@ -1,4 +1,4 @@
-import "../styles/topbar.css"
+// import "../styles/topbar.css"
 import { Menubar } from "primereact/menubar";
 import { Card } from "primereact/card";
 import { Image } from "primereact/image";
@@ -6,8 +6,6 @@ import logo from "../assets/logo.png"
 import { Avatar } from "primereact/avatar";
 
 function TopBar() {
-
-
 
     const items = [
         {
@@ -17,14 +15,23 @@ function TopBar() {
         }
     ];
 
-    const logoItem = <Image src={logo} width="100" />
-    const userCard = (
-        <Card>
-            <Avatar image="https://primefaces.org/cdn/primereact/images/avatar/amyelsner.png" shape="circle" />
+    const logoItem = (
+        <a href="/menu">
+            <Image src={logo} width="100" />
+        </a>
+    );
+    
+    const end = (
+        <Card className="p-1">
+            <div className="flex align-items-center gap-2">
+                <Avatar image="https://primefaces.org/cdn/primereact/images/avatar/amyelsner.png" shape="square" />
+                <h3>Username</h3>
+            </div>
         </Card>
-    )
+    );
+
     return (
-        <Menubar start={logoItem} end={userCard}/>
+        <Menubar className="p-1" start={logoItem} end={end} />
     );
 }
 
