@@ -1,0 +1,7 @@
+body {
+    background-color: white;
+}
+
+.justify-start {
+    justify-content: start;
+}
