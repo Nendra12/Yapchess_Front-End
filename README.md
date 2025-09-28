@@ -114,11 +114,11 @@ docker-compose up --build
 ---
 
 ## 👨‍💻 Tim Pengembang
-- Zanuar Rikza Aditya  
-- Danendra Mahardhika  
-- Harits Putra Junaidi  
-- Asep Prayogi  
-- Moh Naufal Thariq  
+- Zanuar Rikza Aditya (Ketua, fokus back-end)
+- Danendra Mahardhika  (Anggota, fokus front-end)
+- Harits Putra Junaidi  (Anggota, fokus Documentation Officer, QA)
+- Asep Prayogi (Anggota, fokus UI/UX, System Analyst)
+- Moh Naufal Thariq  (Anggota, fokus Database Designer)
 
 📚 Dosen Pembimbing: **Yoga Dwitya Pramudita, S.Kom. M.Cs**  
 🏫 Program Studi **Teknik Informatika, Universitas Trunojoyo Madura (2025/2026)**  
