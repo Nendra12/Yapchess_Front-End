@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+}
+
+.topbar {
+    border-radius: 0px;
+    padding: 10px;
+    padding-left: 40px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+}
