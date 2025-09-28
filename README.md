@@ -1,6 +1,6 @@
 <div align="center">
 
-# ♟️ Distributed Chess Game Web Application  
+# ♟️ Yapchess Distributed Chess Game Web Application  
 **A Next-Gen Multiplayer Web Chess with Real-Time & Social Features**  
 
 ![GitHub stars](https://img.shields.io/github/stars/Nendra12/Yapchess_Front-End?style=social)  
@@ -12,8 +12,8 @@
 
 ---
 
-## 📖 Deskripsi
-**Distributed Chess Game** adalah aplikasi **catur multiplayer berbasis web** dengan **arsitektur three-tier**.  
+## 📖 Tentang Yachess
+**Yachess** adalah aplikasi **catur multiplayer berbasis web** dengan **arsitektur three-tier**.  
 Dibangun menggunakan **React.js, Node.js, PostgreSQL, dan Socket.io**, aplikasi ini menawarkan **sinkronisasi real-time**, sistem manajemen waktu, serta **fitur sosial** seperti pertemanan, chat, dan forum diskusi.
 
 ---
