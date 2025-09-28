@@ -12,8 +12,8 @@
 
 ---
 
-## 📖 Tentang Yachess
-**Yachess** adalah aplikasi **catur multiplayer berbasis web** dengan **arsitektur three-tier**.  
+## 📖 Tentang Yapchess
+**Yapchess** adalah aplikasi **catur multiplayer berbasis web** dengan **arsitektur three-tier**.  
 Dibangun menggunakan **React.js, Node.js, PostgreSQL, dan Socket.io**, aplikasi ini menawarkan **sinkronisasi real-time**, sistem manajemen waktu, serta **fitur sosial** seperti pertemanan, chat, dan forum diskusi.
 
 ---
