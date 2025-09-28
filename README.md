@@ -30,12 +30,10 @@ Dibangun menggunakan **React.js, Node.js, PostgreSQL, dan Socket.io**, aplikasi 
 | Layer | Teknologi |
 |-------|-----------|
 | 🎨 **Frontend** | React.js, HTML5, CSS3, JavaScript ES6+ |
-| ⚙️ **Backend** | Node.js, Express.js |
-| 🗄️ **Database** | PostgreSQL, MongoDB |
+| ⚙️ **Backend** | Node.js |
+| 🗄️ **Database** | PostgreSQL |
 | 🔌 **Real-time** | Socket.io (WebSocket) |
 | 🔐 **Auth** | JSON Web Token (JWT) |
-| 🚀 **Deployment** | Docker, Docker Compose |
-
 ---
 
 ## 📐 Arsitektur Sistem
